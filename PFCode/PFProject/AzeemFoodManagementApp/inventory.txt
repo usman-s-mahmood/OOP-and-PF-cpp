@@ -1,0 +1,10 @@
+1,John,Burger,Done,555-123-4567,123 Street, City
+2,Jane,Pizza,NotDone,555-123-4568,456 Street, Town
+3,Mark,Fries,Done,555-123-4569,789 Street, Village
+4,Sarah,Shake,Done,555-123-4570,321 Street, County
+5,Michael,Broast,NotDone,555-123-4571,654 Street, District
+6,Emily,Cold Drink,NotDone,555-123-4572,987 Street, Borough
+7,David,Burger,Done,555-123-4573,159 Street, Municipality
+8,Lisa,Pizza,Done,555-123-4574,753 Street, Township
+9,Alex,Fries,NotDone,555-123-4575,246 Street, Hamlet
+10,Olivia,Roast,NotDone,555-123-4576,951 Street, Village

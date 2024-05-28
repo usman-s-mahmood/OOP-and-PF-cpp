@@ -1,0 +1,10 @@
+Burger
+Pizza
+Fries
+Shake
+Broast
+Cold Drink
+Sandwich
+Hot Dog
+Nachos
+Chicken Wings

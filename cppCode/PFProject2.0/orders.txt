@@ -1,0 +1,2 @@
+PhoneNum:0324-6606683 Name:usman-shahid Address:55-Avenue-lincoln-street-langley Product:Butter quantity:2 price:600 Product:sausages quantity:1 price:800 Bill:1400 Status:Pending
+PhoneNum:555-832-9177 Name:John-Albert Address:78-w-street-4-west-coast-road-Los-Angeles Product:Peanut-Butter quantity:1 price:400 Product:Milk quantity:1 price:200 Product:Eggs quantity:1 price:300 Product:Orange-Jam quantity:1 price:400 Bill:1300 Status:Pending
